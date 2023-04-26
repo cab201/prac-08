@@ -1,0 +1,15 @@
+C:\Users\MELTUser01\Downloads\prac-08\1. Letter\bin\Debug\net6.0\Letter.exe
+C:\Users\MELTUser01\Downloads\prac-08\1. Letter\bin\Debug\net6.0\Letter.deps.json
+C:\Users\MELTUser01\Downloads\prac-08\1. Letter\bin\Debug\net6.0\Letter.runtimeconfig.json
+C:\Users\MELTUser01\Downloads\prac-08\1. Letter\bin\Debug\net6.0\Letter.dll
+C:\Users\MELTUser01\Downloads\prac-08\1. Letter\bin\Debug\net6.0\Letter.pdb
+C:\Users\MELTUser01\Downloads\prac-08\1. Letter\obj\Debug\net6.0\Letter.csproj.AssemblyReference.cache
+C:\Users\MELTUser01\Downloads\prac-08\1. Letter\obj\Debug\net6.0\Letter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELTUser01\Downloads\prac-08\1. Letter\obj\Debug\net6.0\Letter.AssemblyInfoInputs.cache
+C:\Users\MELTUser01\Downloads\prac-08\1. Letter\obj\Debug\net6.0\Letter.AssemblyInfo.cs
+C:\Users\MELTUser01\Downloads\prac-08\1. Letter\obj\Debug\net6.0\Letter.csproj.CoreCompileInputs.cache
+C:\Users\MELTUser01\Downloads\prac-08\1. Letter\obj\Debug\net6.0\Letter.dll
+C:\Users\MELTUser01\Downloads\prac-08\1. Letter\obj\Debug\net6.0\refint\Letter.dll
+C:\Users\MELTUser01\Downloads\prac-08\1. Letter\obj\Debug\net6.0\Letter.pdb
+C:\Users\MELTUser01\Downloads\prac-08\1. Letter\obj\Debug\net6.0\Letter.genruntimeconfig.cache
+C:\Users\MELTUser01\Downloads\prac-08\1. Letter\obj\Debug\net6.0\ref\Letter.dll

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code", "Code\Code.csproj", "{E85858CC-AC95-40B0-A569-5A8548C290DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Letter", "..\1. Letter\Letter.csproj", "{CFBCEA0D-BADD-44FF-8D11-72EC44B4D617}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question_5", "Question_5\Question_5.csproj", "{71CABF6A-2FC1-4CA2-9DF7-CCD0F0C42A57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E85858CC-AC95-40B0-A569-5A8548C290DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85858CC-AC95-40B0-A569-5A8548C290DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85858CC-AC95-40B0-A569-5A8548C290DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85858CC-AC95-40B0-A569-5A8548C290DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFBCEA0D-BADD-44FF-8D11-72EC44B4D617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBCEA0D-BADD-44FF-8D11-72EC44B4D617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBCEA0D-BADD-44FF-8D11-72EC44B4D617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBCEA0D-BADD-44FF-8D11-72EC44B4D617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71CABF6A-2FC1-4CA2-9DF7-CCD0F0C42A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CABF6A-2FC1-4CA2-9DF7-CCD0F0C42A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CABF6A-2FC1-4CA2-9DF7-CCD0F0C42A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CABF6A-2FC1-4CA2-9DF7-CCD0F0C42A57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52652B87-5328-4BBD-8477-D0650B12EDD4}
+	EndGlobalSection
+EndGlobal
